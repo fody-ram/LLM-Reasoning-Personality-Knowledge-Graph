@@ -1,4 +1,5 @@
 # LLM Reasoning & Personality Knowledge Graph
+link to video: [link](https://www.canva.com/design/DAG2omUTtcA/cejF7RzZWFaJTEJZfRvOtw/view?utm_content=DAG2omUTtcA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc5ec982caa)
 
 ## Project Overview
 This project extracts structured knowledge from unstructured text and models personality traits of individuals in a Knowledge Graph (KG). It identifies people, organizations, their relationships, and personal characteristics such as traits and activities. The project demonstrates how NLP techniques and LLM-assisted reasoning can generate actionable insights from textual data.
